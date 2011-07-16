@@ -1,1 +1,18 @@
-Hello world!
+SerosBroadcast
+(c)2011 by Seromania <http://dersero.de.tc/>
+Lizens: GNU General Public License v3
+
+Einführung
+===========
+
+SerosBroadcast ist ein kleines Bukkit Plugin für die Server Version Beta 1.7.3
+(git-Bukkit-0.0.0-927-geb0b1c9-b985jnks (MC:1.7.3))
+
+Es wurde für den MC-Server der Community http://op-ga.de/ geschrieben.
+
+Vorraussetzungen
+================
+
+- Java Compiler
+- Die oben genannte Bukkit Version (Ob dieses Plugin mit anderen Versionen funktioniert kann ich nicht sagen)
+- Ein bisschen JAVA Kenntnisse
