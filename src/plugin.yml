@@ -1,0 +1,12 @@
+name:  SerosBroadcast
+version:  0.0.1
+description:  Farbiger Broadcast
+author:  Sero
+website:  http://op-ga.de/
+
+main:  me.sero.brotkasten.brotkasten
+
+commands:
+  bc:
+    description:  Broadcast
+    usage:  /<command> 
